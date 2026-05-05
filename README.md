@@ -57,15 +57,15 @@ and Download ebook and Upload ebook to Database.
 
 ## About File in Project:
 ```
-64160118/                 | head folder
-64160118/books/*          | directory store book test file (.epub and .pdf)
-64160118/README.TXT       | this file. tell about project
-64160118/requirement.txt  | library requirement for python pip install
-64160118/BulkLoader.py    | program load data before start client 
-64160118/GridFS.py        | program gridfs for save_file and load_file from DB
-64160118/metadata.py      | metadata books storage [DATA, SCHEMA]
-64160118/client.py        | program for use manage database [CURD, Search] 
-64160118/u1.py            | program for display ui text interface
+mongoDB_project/                 | head folder
+mongoDB_project/books/*          | directory store book test file (.epub and .pdf)
+mongoDB_project/README.TXT       | this file. tell about project
+mongoDB_project/requirement.txt  | library requirement for python pip install
+mongoDB_project/BulkLoader.py    | program load data before start client 
+mongoDB_project/GridFS.py        | program gridfs for save_file and load_file from DB
+mongoDB_project/metadata.py      | metadata books storage [DATA, SCHEMA]
+mongoDB_project/client.py        | program for use manage database [CURD, Search] 
+mongoDB_project/u1.py            | program for display ui text interface
 ```
 
 ## How to use:
